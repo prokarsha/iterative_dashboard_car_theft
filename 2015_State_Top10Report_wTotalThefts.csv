@@ -1,0 +1,511 @@
+index,State,Rank,Model,Model Year,Thefts,Country
+0,Alabama,1,Chevrolet Pickup (Full Size),2005,499,United States of America
+1,Alabama,2,Ford Pickup (Full Size),2006,357,United States of America
+2,Alabama,3,Toyota Camry,2014,205,United States of America
+3,Alabama,4,Nissan Altima,2014,191,United States of America
+4,Alabama,4,Chevrolet Impala,2004,191,United States of America
+5,Alabama,5,Honda Accord,1998,180,United States of America
+6,Alabama,6,GMC Pickup (Full Size),1999,152,United States of America
+7,Alabama,7,Dodge Pickup (Full Size),1998,138,United States of America
+8,Alabama,8,Ford Mustang,2002,122,United States of America
+9,Alabama,9,Ford Explorer,2002,119,United States of America
+10,Alaska,1,Chevrolet Pickup (Full Size),2003,147,United States of America
+11,Alaska,2,Ford Pickup (Full Size),2004,95,United States of America
+12,Alaska,3,GMC Pickup (Full Size),1997,58,United States of America
+13,Alaska,4,Honda Civic,2000,56,United States of America
+14,Alaska,5,Honda Accord,1993,46,United States of America
+15,Alaska,6,Dodge Pickup (Full Size),1998,44,United States of America
+16,Alaska,7,Ford Explorer,1994,31,United States of America
+17,Alaska,8,Jeep Cherokee/Grand Cherokee,1999,28,United States of America
+18,Alaska,9,Ford Pickup (Small Size),2000,22,United States of America
+19,Alaska,10,Chevrolet Pickup (Small Size),1998,20,United States of America
+20,Arizona,1,Honda Accord,1997,"1,072",United States of America
+21,Arizona,2,Honda Civic,1998,"1,016",United States of America
+22,Arizona,3,Chevrolet Pickup (Full Size),2004,850,United States of America
+23,Arizona,4,Ford Pickup (Full Size),2006,772,United States of America
+24,Arizona,5,Dodge Pickup (Full Size),2001,428,United States of America
+25,Arizona,6,Nissan Altima,2015,269,United States of America
+26,Arizona,7,GMC Pickup (Full Size),2015,246,United States of America
+27,Arizona,8,Toyota Camry,1999,210,United States of America
+28,Arizona,9,Jeep Cherokee/Grand Cherokee,1994,207,United States of America
+29,Arizona,10,Nissan Sentra,2014,200,United States of America
+30,Arkansas,1,Chevrolet Pickup (Full Size),2004,402,United States of America
+31,Arkansas,2,Ford Pickup (Full Size),2008,252,United States of America
+32,Arkansas,3,GMC Pickup (Full Size),1997,174,United States of America
+33,Arkansas,4,Dodge Pickup (Full Size),1999,127,United States of America
+34,Arkansas,5,Honda Accord,1997,122,United States of America
+35,Arkansas,6,Nissan Altima,2015,89,United States of America
+36,Arkansas,7,Toyota Camry,2013,82,United States of America
+37,Arkansas,8,Chevrolet Impala,2012,76,United States of America
+38,Arkansas,9,Chevrolet Malibu,2006,72,United States of America
+39,Arkansas,10,Chevrolet Tahoe,2003,68,United States of America
+40,California,1,Honda Accord,1996,"28,345",United States of America
+41,California,2,Honda Civic,1998,"28,045",United States of America
+42,California,3,Chevrolet Pickup (Full Size),2006,"6,048",United States of America
+43,California,4,Toyota Camry,1991,"5,345",United States of America
+44,California,5,Ford Pickup (Full Size),2006,"4,504",United States of America
+45,California,6,Acura Integra,1994,"4,273",United States of America
+46,California,7,Toyota Corolla,2014,"3,339",United States of America
+47,California,8,Nissan Sentra,1997,"2,555",United States of America
+48,California,9,Nissan Altima,1997,"2,281",United States of America
+49,California,10,Honda CR-V,1999,"2,033",United States of America
+50,Colorado,1,Honda Civic,1997,"1,380",United States of America
+51,Colorado,2,Honda Accord,1997,"1,167",United States of America
+52,Colorado,3,Ford Pickup (Full Size),2005,595,United States of America
+53,Colorado,4,Jeep Cherokee/Grand Cherokee,1999,594,United States of America
+54,Colorado,5,Chevrolet Pickup (Full Size),2000,450,United States of America
+55,Colorado,6,Dodge Pickup (Full Size),2001,308,United States of America
+56,Colorado,7,Subaru Legacy,1996,215,United States of America
+57,Colorado,8,Acura Integra,1994,208,United States of America
+58,Colorado,9,Toyota Camry,1989,203,United States of America
+59,Colorado,10,Toyota Corolla,2014,170,United States of America
+60,Connecticut,1,Honda Accord,1997,534,United States of America
+61,Connecticut,2,Honda Civic,1998,532,United States of America
+62,Connecticut,3,Nissan Maxima,1998,184,United States of America
+63,Connecticut,4,Nissan Altima,1997,143,United States of America
+64,Connecticut,5,Toyota Camry,2014,131,United States of America
+65,Connecticut,6,Jeep Cherokee/Grand Cherokee,2000,110,United States of America
+66,Connecticut,7,Toyota Corolla,1999,99,United States of America
+67,Connecticut,8,Honda CR-V,1998,92,United States of America
+68,Connecticut,9,Dodge Caravan,2000,79,United States of America
+69,Connecticut,10,Acura TL,2003,76,United States of America
+70,Delaware,1,Honda Civic,2000,53,United States of America
+71,Delaware,2,Honda Accord,2004,43,United States of America
+72,Delaware,3,Chevrolet Pickup (Full Size),2005,36,United States of America
+73,Delaware,4,Ford Pickup (Full Size),1999,31,United States of America
+74,Delaware,5,Chevrolet Impala,2007,28,United States of America
+75,Delaware,6,Nissan Altima,2006,23,United States of America
+76,Delaware,6,Honda CR-V,2001,23,United States of America
+77,Delaware,7,Ford Taurus,2002,22,United States of America
+78,Delaware,8,Toyota Corolla,2010,21,United States of America
+79,Delaware,9,Toyota Camry,2012,20,United States of America
+80,District Of Columbia,1,Dodge Caravan,2002,167,United States of America
+81,District Of Columbia,2,Honda Accord,1997,132,United States of America
+82,District Of Columbia,3,Jeep Cherokee/Grand Cherokee,2001,109,United States of America
+83,District Of Columbia,4,Toyota Camry,2014,95,United States of America
+84,District Of Columbia,5,Toyota Corolla,2010,70,United States of America
+85,District Of Columbia,6,Nissan Altima,2015,62,United States of America
+86,District Of Columbia,7,Ford Pickup (Full Size),1997,49,United States of America
+87,District Of Columbia,8,Chevrolet Pickup (Full Size),1999,41,United States of America
+88,District Of Columbia,9,Chevrolet Impala,2013,40,United States of America
+89,District Of Columbia,9,Chrysler 300/300M,2005,40,United States of America
+90,Florida,1,Ford Pickup (Full Size),2006,"2,070",United States of America
+91,Florida,2,Honda Civic,2000,"1,127",United States of America
+92,Florida,3,Nissan Altima,2015,"1,098",United States of America
+93,Florida,4,Toyota Camry,2014,"1,089",United States of America
+94,Florida,5,Honda Accord,1997,"1,025",United States of America
+95,Florida,6,Toyota Corolla,2014,914,United States of America
+96,Florida,7,Chevrolet Pickup (Full Size),2015,786,United States of America
+97,Florida,8,Chevrolet Impala,2015,542,United States of America
+98,Florida,9,Dodge Pickup (Full Size),2005,534,United States of America
+99,Florida,10,Nissan Maxima,2014,479,United States of America
+100,Georgia,1,Honda Accord,1997,"1,052",United States of America
+101,Georgia,2,Ford Pickup (Full Size),2006,954,United States of America
+102,Georgia,3,Chevrolet Pickup (Full Size),1999,948,United States of America
+103,Georgia,4,Honda Civic,2000,653,United States of America
+104,Georgia,5,Toyota Camry,2014,568,United States of America
+105,Georgia,6,Chevrolet Impala,2008,512,United States of America
+106,Georgia,7,Nissan Altima,2014,484,United States of America
+107,Georgia,8,Dodge Pickup (Full Size),2003,452,United States of America
+108,Georgia,9,Jeep Cherokee/Grand Cherokee,2001,449,United States of America
+109,Georgia,10,Dodge Caravan,2002,425,United States of America
+110,Hawaii,1,Honda Civic,2000,250,United States of America
+111,Hawaii,2,Honda Accord,1994,180,United States of America
+112,Hawaii,3,Ford Pickup (Full Size),2006,154,United States of America
+113,Hawaii,4,Toyota Tacoma,2003,86,United States of America
+114,Hawaii,5,Toyota Corolla,2004,64,United States of America
+115,Hawaii,6,Toyota Camry,2000,55,United States of America
+116,Hawaii,7,Toyota 4Runner,1997,45,United States of America
+117,Hawaii,8,Nissan Frontier,2004,44,United States of America
+118,Hawaii,9,Nissan Altima,2004,42,United States of America
+119,Hawaii,10,Dodge Pickup (Full Size),2001,37,United States of America
+120,Idaho,1,Ford Pickup (Full Size),2004,108,United States of America
+121,Idaho,2,Chevrolet Pickup (Full Size),1999,76,United States of America
+122,Idaho,3,Honda Accord,1996,66,United States of America
+123,Idaho,4,Honda Civic,1996,52,United States of America
+124,Idaho,5,Dodge Pickup (Full Size),2001,45,United States of America
+125,Idaho,6,GMC Pickup (Full Size),1992,32,United States of America
+126,Idaho,7,Ford Explorer,2002,22,United States of America
+127,Idaho,8,Ford Pickup (Small Size),1991,19,United States of America
+128,Idaho,8,Toyota Camry,1997,19,United States of America
+129,Idaho,8,Jeep Cherokee/Grand Cherokee,1997,19,United States of America
+130,Illinois,1,Dodge Caravan,2000,"1,054",United States of America
+131,Illinois,2,Chevrolet Impala,2008,579,United States of America
+132,Illinois,3,Honda Civic,2000,566,United States of America
+133,Illinois,4,Honda Accord,1997,481,United States of America
+134,Illinois,5,Chevrolet Malibu,2011,442,United States of America
+135,Illinois,6,Chevrolet Pickup (Full Size),1999,418,United States of America
+136,Illinois,7,Ford Pickup (Full Size),2006,392,United States of America
+137,Illinois,8,Toyota Camry,2014,383,United States of America
+138,Illinois,9,Jeep Cherokee/Grand Cherokee,2000,374,United States of America
+139,Illinois,10,Nissan Altima,2014,326,United States of America
+140,Indiana,1,Ford Pickup (Full Size),2005,659,United States of America
+141,Indiana,2,Chevrolet Pickup (Full Size),1994,619,United States of America
+142,Indiana,3,Chevrolet Impala,2004,423,United States of America
+143,Indiana,4,Dodge Pickup (Full Size),2001,263,United States of America
+144,Indiana,5,Chevrolet Malibu,2005,238,United States of America
+145,Indiana,6,GMC Pickup (Full Size),1995,192,United States of America
+146,Indiana,7,Honda Accord,1994,186,United States of America
+147,Indiana,7,Chevrolet Pickup (Small Size),1998,186,United States of America
+148,Indiana,8,Pontiac Grand Prix,2004,183,United States of America
+149,Indiana,9,Ford Taurus,2003,182,United States of America
+150,Iowa,1,Chevrolet Pickup (Full Size),2002,258,United States of America
+151,Iowa,2,Ford Pickup (Full Size),2001,198,United States of America
+152,Iowa,3,Chevrolet Impala,2005,101,United States of America
+153,Iowa,4,Dodge Pickup (Full Size),2004,93,United States of America
+154,Iowa,5,Ford Taurus,2003,77,United States of America
+155,Iowa,6,Jeep Cherokee/Grand Cherokee,2005,65,United States of America
+156,Iowa,7,GMC Pickup (Full Size),2007,60,United States of America
+157,Iowa,8,Toyota Camry,1997,59,United States of America
+158,Iowa,9,Dodge Caravan,2005,56,United States of America
+159,Iowa,9,Pontiac Grand Prix,1999,56,United States of America
+160,Kansas,1,Chevrolet Pickup (Full Size),1999,439,United States of America
+161,Kansas,2,Ford Pickup (Full Size),2003,415,United States of America
+162,Kansas,3,Honda Accord,1996,319,United States of America
+163,Kansas,4,Honda Civic,2000,220,United States of America
+164,Kansas,5,Dodge Pickup (Full Size),2001,160,United States of America
+165,Kansas,6,GMC Pickup (Full Size),1999,113,United States of America
+166,Kansas,7,Chevrolet Impala,2004,98,United States of America
+167,Kansas,8,Dodge Caravan,2002,89,United States of America
+168,Kansas,8,Jeep Cherokee/Grand Cherokee,2000,89,United States of America
+169,Kansas,9,Chevrolet Pickup (Small Size),1998,88,United States of America
+170,Kentucky,1,Chevrolet Pickup (Full Size),1998,250,United States of America
+171,Kentucky,2,Ford Pickup (Full Size),2001,241,United States of America
+172,Kentucky,3,Toyota Camry,1999,178,United States of America
+173,Kentucky,4,Chevrolet Impala,2005,118,United States of America
+174,Kentucky,5,Toyota Corolla,2014,110,United States of America
+175,Kentucky,6,Honda Accord,1997,108,United States of America
+176,Kentucky,7,Ford Explorer,2000,99,United States of America
+177,Kentucky,8,Ford Taurus,2002,94,United States of America
+178,Kentucky,9,Dodge Pickup (Full Size),2001,93,United States of America
+179,Kentucky,10,Chevrolet Pickup (Small Size),2000,79,United States of America
+180,Louisiana,1,Chevrolet Pickup (Full Size),2006,671,United States of America
+181,Louisiana,2,Ford Pickup (Full Size),2006,584,United States of America
+182,Louisiana,3,GMC Pickup (Full Size),2006,253,United States of America
+183,Louisiana,4,Toyota Camry,2007,224,United States of America
+184,Louisiana,5,Dodge Pickup (Full Size),2003,222,United States of America
+185,Louisiana,6,Nissan Altima,2014,215,United States of America
+186,Louisiana,7,Honda Accord,2008,209,United States of America
+187,Louisiana,8,Chevrolet Impala,2008,177,United States of America
+188,Louisiana,9,GMC Yukon,2003,125,United States of America
+189,Louisiana,10,Chevrolet Tahoe,2007,114,United States of America
+190,Maine,1,Chevrolet Pickup (Full Size),2001,29,United States of America
+191,Maine,2,GMC Pickup (Full Size),1993,26,United States of America
+192,Maine,3,Jeep Cherokee/Grand Cherokee,2004,18,United States of America
+193,Maine,4,Ford Pickup (Full Size),2004,15,United States of America
+194,Maine,5,Toyota Corolla,2009,13,United States of America
+195,Maine,5,Toyota Camry,1996,13,United States of America
+196,Maine,6,Honda Civic,2009,11,United States of America
+197,Maine,7,Chevrolet Impala,2000,8,United States of America
+198,Maine,7,Ford Focus,2001,8,United States of America
+199,Maine,8,Chevrolet Cobalt,2005,7,United States of America
+200,Maryland,1,Dodge Caravan,2003,727,United States of America
+201,Maryland,2,Honda Accord,2008,675,United States of America
+202,Maryland,3,Toyota Camry,2014,347,United States of America
+203,Maryland,4,Honda Civic,2012,313,United States of America
+204,Maryland,5,Ford Pickup (Full Size),2004,287,United States of America
+205,Maryland,6,Nissan Altima,2013,230,United States of America
+206,Maryland,7,Toyota Corolla,2014,204,United States of America
+207,Maryland,8,Jeep Cherokee/Grand Cherokee,2015,194,United States of America
+208,Maryland,9,Chevrolet Pickup (Full Size),1999,192,United States of America
+209,Maryland,10,Hyundai Sonata,2013,169,United States of America
+210,Massachusetts,1,Honda Civic,2000,426,United States of America
+211,Massachusetts,2,Honda Accord,1997,402,United States of America
+212,Massachusetts,3,Toyota Camry,2014,260,United States of America
+213,Massachusetts,4,Toyota Corolla,2010,203,United States of America
+214,Massachusetts,5,Dodge Caravan,2005,188,United States of America
+215,Massachusetts,6,Ford Pickup (Full Size),2004,178,United States of America
+216,Massachusetts,7,Nissan Altima,2005,156,United States of America
+217,Massachusetts,8,Jeep Cherokee/Grand Cherokee,1999,143,United States of America
+218,Massachusetts,9,Honda CR-V,1999,107,United States of America
+219,Massachusetts,10,Chevrolet Pickup (Full Size),2015,95,United States of America
+220,Michigan,1,Chevrolet Impala,2008,733,United States of America
+221,Michigan,2,Chevrolet Pickup (Full Size),1999,585,United States of America
+222,Michigan,3,Ford Pickup (Full Size),2006,530,United States of America
+223,Michigan,4,Dodge Caravan,2003,528,United States of America
+224,Michigan,5,Dodge Charger,2015,477,United States of America
+225,Michigan,6,Chevrolet Trailblazer,2007,462,United States of America
+226,Michigan,7,Chevrolet Malibu,2013,451,United States of America
+227,Michigan,8,Pontiac Grand Prix,2004,418,United States of America
+228,Michigan,9,Jeep Cherokee/Grand Cherokee,2000,407,United States of America
+229,Michigan,10,Ford Fusion,2014,355,United States of America
+230,Minnesota,1,Honda Civic,1998,676,United States of America
+231,Minnesota,2,Honda Accord,1997,524,United States of America
+232,Minnesota,3,Chevrolet Pickup (Full Size),1999,329,United States of America
+233,Minnesota,4,Ford Pickup (Full Size),2005,246,United States of America
+234,Minnesota,5,Toyota Camry,1999,214,United States of America
+235,Minnesota,6,Honda CR-V,1999,190,United States of America
+236,Minnesota,7,Chevrolet Impala,2004,171,United States of America
+237,Minnesota,8,Dodge Caravan,2003,143,United States of America
+238,Minnesota,9,Toyota Corolla,2010,109,United States of America
+239,Minnesota,10,Acura Integra,1996,95,United States of America
+240,Mississippi,1,Chevrolet Pickup (Full Size),1994,286,United States of America
+241,Mississippi,2,Ford Pickup (Full Size),2006,278,United States of America
+242,Mississippi,3,Nissan Altima,2015,128,United States of America
+243,Mississippi,4,Chevrolet Impala,2006,114,United States of America
+244,Mississippi,5,GMC Pickup (Full Size),2000,103,United States of America
+245,Mississippi,6,Toyota Camry,2014,94,United States of America
+246,Mississippi,7,Honda Accord,2007,91,United States of America
+247,Mississippi,8,Dodge Pickup (Full Size),2005,85,United States of America
+248,Mississippi,9,Chevrolet Malibu,2015,73,United States of America
+249,Mississippi,10,Chevrolet Tahoe,2005,68,United States of America
+250,Missouri,1,Ford Pickup (Full Size),2004,880,United States of America
+251,Missouri,2,Chevrolet Pickup (Full Size),2000,783,United States of America
+252,Missouri,3,Dodge Caravan,2003,465,United States of America
+253,Missouri,4,Dodge Pickup (Full Size),2001,410,United States of America
+254,Missouri,5,Chevrolet Impala,2008,369,United States of America
+255,Missouri,6,Jeep Cherokee/Grand Cherokee,1998,289,United States of America
+256,Missouri,7,Honda Accord,1997,274,United States of America
+257,Missouri,8,Ford Taurus,2002,250,United States of America
+258,Missouri,9,Chevrolet Malibu,2015,243,United States of America
+259,Missouri,10,Toyota Camry,2014,236,United States of America
+260,Montana,1,Chevrolet Pickup (Full Size),1999,165,United States of America
+261,Montana,2,Ford Pickup (Full Size),1995,145,United States of America
+262,Montana,3,Dodge Pickup (Full Size),2006,78,United States of America
+263,Montana,4,GMC Pickup (Full Size),2008,55,United States of America
+264,Montana,5,Honda Accord,1994,52,United States of America
+265,Montana,6,Chevrolet Impala,2001,31,United States of America
+266,Montana,7,Ford Explorer,1996,27,United States of America
+267,Montana,8,Chevrolet Pickup (Small Size),1995,24,United States of America
+268,Montana,9,Toyota Camry,2015,23,United States of America
+269,Montana,10,Ford Pickup (Small Size),2000,22,United States of America
+270,Nebraska,1,Chevrolet Pickup (Full Size),1996,196,United States of America
+271,Nebraska,2,Ford Pickup (Full Size),1999,168,United States of America
+272,Nebraska,3,Honda Civic,1997,165,United States of America
+273,Nebraska,4,Honda Accord,1996,157,United States of America
+274,Nebraska,5,Dodge Pickup (Full Size),2001,102,United States of America
+275,Nebraska,6,Jeep Cherokee/Grand Cherokee,1999,70,United States of America
+276,Nebraska,7,Chevrolet Impala,2006,68,United States of America
+277,Nebraska,8,GMC Pickup (Full Size),2015,61,United States of America
+278,Nebraska,9,Toyota Camry,2000,49,United States of America
+279,Nebraska,10,Chevrolet Pickup (Small Size),1998,43,United States of America
+280,Nevada,1,Honda Accord,1996,"1,048",United States of America
+281,Nevada,2,Honda Civic,1998,"1,011",United States of America
+282,Nevada,3,Chevrolet Pickup (Full Size),2006,377,United States of America
+283,Nevada,4,Ford Pickup (Full Size),2006,279,United States of America
+284,Nevada,5,Toyota Camry,2015,254,United States of America
+285,Nevada,6,Nissan Maxima,1997,208,United States of America
+286,Nevada,7,Nissan Altima,1997,207,United States of America
+287,Nevada,8,Nissan Sentra,2014,200,United States of America
+288,Nevada,9,Toyota Corolla,2014,151,United States of America
+289,Nevada,10,Dodge Pickup (Full Size),2005,148,United States of America
+290,New Hampshire,1,Honda Civic,1997,34,United States of America
+291,New Hampshire,2,Honda Accord,1996,20,United States of America
+292,New Hampshire,3,Chevrolet Pickup (Full Size),2002,19,United States of America
+293,New Hampshire,4,Ford Pickup (Full Size),2002,17,United States of America
+294,New Hampshire,5,Dodge Caravan,2003,16,United States of America
+295,New Hampshire,6,Ford Focus,2007,14,United States of America
+296,New Hampshire,7,Toyota Camry,1999,13,United States of America
+297,New Hampshire,8,Jeep Cherokee/Grand Cherokee,2000,11,United States of America
+298,New Hampshire,9,GMC Pickup (Full Size),2007,9,United States of America
+299,New Hampshire,9,Toyota Corolla,1999,9,United States of America
+300,New Jersey,1,Honda Accord,1997,844,United States of America
+301,New Jersey,2,Honda Civic,1998,753,United States of America
+302,New Jersey,3,Dodge Caravan,2002,427,United States of America
+303,New Jersey,4,Nissan Sentra,1998,340,United States of America
+304,New Jersey,5,Ford Pickup (Full Size),2006,295,United States of America
+305,New Jersey,6,Nissan Altima,2014,291,United States of America
+306,New Jersey,7,Jeep Cherokee/Grand Cherokee,2000,286,United States of America
+307,New Jersey,8,Toyota Camry,2014,232,United States of America
+308,New Jersey,9,Nissan Maxima,1998,195,United States of America
+309,New Jersey,10,Ford Econoline E350,2003,184,United States of America
+310,New Mexico,1,Honda Civic,1998,572,United States of America
+311,New Mexico,2,Ford Pickup (Full Size),2006,557,United States of America
+312,New Mexico,3,Honda Accord,1994,545,United States of America
+313,New Mexico,4,Chevrolet Pickup (Full Size),2006,483,United States of America
+314,New Mexico,5,Dodge Pickup (Full Size),2003,269,United States of America
+315,New Mexico,6,GMC Pickup (Full Size),2006,180,United States of America
+316,New Mexico,7,Jeep Cherokee/Grand Cherokee,1994,149,United States of America
+317,New Mexico,8,Toyota Camry,1999,128,United States of America
+318,New Mexico,9,Chevrolet Pickup (Small Size),1998,101,United States of America
+319,New Mexico,10,Chevrolet Impala,2005,90,United States of America
+320,New York,1,Honda Accord,1997,724,United States of America
+321,New York,2,Honda Civic,1998,707,United States of America
+322,New York,3,Toyota Camry,2014,500,United States of America
+323,New York,4,Nissan Altima,2015,374,United States of America
+324,New York,5,Dodge Caravan,2000,368,United States of America
+325,New York,6,Ford Econoline E350,2011,339,United States of America
+326,New York,7,Nissan Maxima,1998,328,United States of America
+327,New York,8,Honda CR-V,1997,283,United States of America
+328,New York,9,Toyota Corolla,2010,280,United States of America
+329,New York,10,Jeep Cherokee/Grand Cherokee,2015,263,United States of America
+330,North Carolina,1,Honda Accord,1997,609,United States of America
+331,North Carolina,2,Ford Pickup (Full Size),2004,424,United States of America
+332,North Carolina,3,Chevrolet Pickup (Full Size),2003,370,United States of America
+333,North Carolina,4,Honda Civic,2000,350,United States of America
+334,North Carolina,5,Toyota Camry,2014,291,United States of America
+335,North Carolina,6,Nissan Altima,2015,249,United States of America
+336,North Carolina,7,Jeep Cherokee/Grand Cherokee,1999,203,United States of America
+337,North Carolina,8,Chevrolet Impala,2006,194,United States of America
+338,North Carolina,9,Toyota Corolla,2014,190,United States of America
+339,North Carolina,10,Ford Explorer,2003,185,United States of America
+340,North Dakota,1,Chevrolet Pickup (Full Size),2002,127,United States of America
+341,North Dakota,2,Ford Pickup (Full Size),1997,101,United States of America
+342,North Dakota,3,Dodge Pickup (Full Size),1998,49,United States of America
+343,North Dakota,4,GMC Pickup (Full Size),2006,37,United States of America
+344,North Dakota,5,Chevrolet Impala,2015,27,United States of America
+345,North Dakota,6,Honda Accord,1990,23,United States of America
+346,North Dakota,7,Jeep Cherokee/Grand Cherokee,1999,21,United States of America
+347,North Dakota,8,Chevrolet Pickup (Small Size),1999,18,United States of America
+348,North Dakota,9,Pontiac Grand Am,2000,17,United States of America
+349,North Dakota,10,Ford Taurus,1998,16,United States of America
+350,Ohio,1,Dodge Caravan,2003,679,United States of America
+351,Ohio,2,Chevrolet Pickup (Full Size),1999,579,United States of America
+352,Ohio,3,Ford Pickup (Full Size),2004,540,United States of America
+353,Ohio,4,Jeep Cherokee/Grand Cherokee,2000,467,United States of America
+354,Ohio,5,Chevrolet Impala,2007,441,United States of America
+355,Ohio,6,Honda Accord,1997,437,United States of America
+356,Ohio,7,Chevrolet Malibu,2015,343,United States of America
+357,Ohio,8,Honda Civic,2000,325,United States of America
+358,Ohio,9,Toyota Camry,2014,308,United States of America
+359,Ohio,10,Dodge Pickup (Full Size),2005,297,United States of America
+360,Oklahoma,1,Chevrolet Pickup (Full Size),1994,"1,143",United States of America
+361,Oklahoma,2,Ford Pickup (Full Size),2004,780,United States of America
+362,Oklahoma,3,Dodge Pickup (Full Size),2001,419,United States of America
+363,Oklahoma,4,GMC Pickup (Full Size),1994,304,United States of America
+364,Oklahoma,5,Honda Civic,1998,292,United States of America
+365,Oklahoma,6,Honda Accord,1996,269,United States of America
+366,Oklahoma,7,Chevrolet Impala,2005,181,United States of America
+367,Oklahoma,8,Chevrolet Pickup (Small Size),1998,127,United States of America
+368,Oklahoma,9,Ford Explorer,2002,123,United States of America
+369,Oklahoma,10,Chevrolet Malibu,2009,119,United States of America
+370,Oregon,1,Honda Accord,1994,"1,491",United States of America
+371,Oregon,2,Honda Civic,1998,"1,276",United States of America
+372,Oregon,3,Subaru Legacy,1998,377,United States of America
+373,Oregon,4,Ford Pickup (Full Size),2004,295,United States of America
+374,Oregon,5,Toyota Camry,1990,221,United States of America
+375,Oregon,6,Chevrolet Pickup (Full Size),1999,217,United States of America
+376,Oregon,7,Acura Integra,1994,209,United States of America
+377,Oregon,8,Subaru Impreza,1999,171,United States of America
+378,Oregon,9,Honda CR-V,1999,158,United States of America
+379,Oregon,10,Jeep Cherokee/Grand Cherokee,1994,141,United States of America
+380,Pennsylvania,1,Honda Accord,1997,544,United States of America
+381,Pennsylvania,2,Honda Civic,1998,539,United States of America
+382,Pennsylvania,3,Ford Pickup (Full Size),2006,303,United States of America
+383,Pennsylvania,4,Toyota Camry,2014,269,United States of America
+384,Pennsylvania,5,Nissan Altima,2015,261,United States of America
+385,Pennsylvania,6,Chevrolet Impala,2006,224,United States of America
+386,Pennsylvania,7,Toyota Corolla,2014,210,United States of America
+387,Pennsylvania,8,Chevrolet Pickup (Full Size),2003,203,United States of America
+388,Pennsylvania,9,Jeep Cherokee/Grand Cherokee,1999,188,United States of America
+389,Pennsylvania,10,Chevrolet Malibu,2015,159,United States of America
+390,Rhode Island,1,Honda Accord,1997,101,United States of America
+391,Rhode Island,2,Honda Civic,1998,95,United States of America
+392,Rhode Island,3,Toyota Camry,2014,69,United States of America
+393,Rhode Island,4,Nissan Maxima,2000,45,United States of America
+394,Rhode Island,5,Toyota Corolla,2014,40,United States of America
+395,Rhode Island,6,Nissan Altima,2013,38,United States of America
+396,Rhode Island,7,Ford Pickup (Full Size),2003,36,United States of America
+397,Rhode Island,8,Jeep Cherokee/Grand Cherokee,1999,32,United States of America
+398,Rhode Island,9,Honda CR-V,1999,27,United States of America
+399,Rhode Island,10,Toyota Avalon,2000,18,United States of America
+400,South Carolina,1,Ford Pickup (Full Size),2006,586,United States of America
+401,South Carolina,2,Honda Accord,1996,458,United States of America
+402,South Carolina,3,Chevrolet Pickup (Full Size),2004,455,United States of America
+403,South Carolina,4,Ford Crown Victoria,2003,210,United States of America
+404,South Carolina,5,Toyota Camry,2014,183,United States of America
+405,South Carolina,6,Honda Civic,2000,176,United States of America
+406,South Carolina,7,Dodge Pickup (Full Size),2001,172,United States of America
+407,South Carolina,8,Chevrolet Impala,2008,166,United States of America
+408,South Carolina,9,Nissan Altima,2015,155,United States of America
+409,South Carolina,10,Ford Explorer,2002,146,United States of America
+410,South Dakota,1,Chevrolet Pickup (Full Size),1994,52,United States of America
+411,South Dakota,2,Ford Pickup (Full Size),2001,47,United States of America
+412,South Dakota,3,Chevrolet Impala,2004,24,United States of America
+413,South Dakota,4,Dodge Pickup (Full Size),2001,23,United States of America
+414,South Dakota,4,Honda Civic,1996,23,United States of America
+415,South Dakota,5,GMC Pickup (Full Size),1994,22,United States of America
+416,South Dakota,6,Chevrolet Malibu,2003,20,United States of America
+417,South Dakota,7,Chevrolet Pickup (Small Size),1997,17,United States of America
+418,South Dakota,7,Ford Taurus,2006,17,United States of America
+419,South Dakota,7,Jeep Cherokee/Grand Cherokee,1999,17,United States of America
+420,Tennessee,1,Chevrolet Pickup (Full Size),1997,693,United States of America
+421,Tennessee,2,Ford Pickup (Full Size),2004,468,United States of America
+422,Tennessee,3,Honda Accord,1996,267,United States of America
+423,Tennessee,4,Nissan Altima,2005,215,United States of America
+424,Tennessee,5,Chevrolet Impala,2007,213,United States of America
+425,Tennessee,6,GMC Pickup (Full Size),1996,201,United States of America
+426,Tennessee,7,Honda Civic,2000,198,United States of America
+427,Tennessee,8,Nissan Maxima,1997,188,United States of America
+428,Tennessee,8,Toyota Camry,2007,188,United States of America
+429,Tennessee,9,Jeep Cherokee/Grand Cherokee,2000,178,United States of America
+430,Texas,1,Ford Pickup (Full Size),2006,"7,897",United States of America
+431,Texas,2,Chevrolet Pickup (Full Size),2004,"6,158",United States of America
+432,Texas,3,Dodge Pickup (Full Size),2004,"2,898",United States of America
+433,Texas,4,Honda Accord,1997,"1,626",United States of America
+434,Texas,5,GMC Pickup (Full Size),2015,"1,450",United States of America
+435,Texas,6,Honda Civic,2000,"1,371",United States of America
+436,Texas,7,Chevrolet Tahoe,2004,"1,148",United States of America
+437,Texas,8,Toyota Camry,2014,"1,030",United States of America
+438,Texas,9,Nissan Altima,2012,957,United States of America
+439,Texas,10,Chevrolet Impala,2007,898,United States of America
+440,Utah,1,Honda Accord,1997,938,United States of America
+441,Utah,2,Honda Civic,1998,915,United States of America
+442,Utah,3,Subaru Legacy,1996,262,United States of America
+443,Utah,4,Ford Pickup (Full Size),2006,238,United States of America
+444,Utah,5,Chevrolet Pickup (Full Size),2004,225,United States of America
+445,Utah,6,Dodge Pickup (Full Size),2012,117,United States of America
+446,Utah,7,Subaru Impreza,1997,106,United States of America
+447,Utah,8,Acura Integra,1995,103,United States of America
+448,Utah,9,Jeep Cherokee/Grand Cherokee,1996,102,United States of America
+449,Utah,10,Nissan Altima,1997,97,United States of America
+450,Vermont,1,Chevrolet Pickup (Full Size),2001,15,United States of America
+451,Vermont,2,Ford Pickup (Full Size),2010,8,United States of America
+452,Vermont,2,Honda Accord,2002,8,United States of America
+453,Vermont,3,Hyundai Elantra,2015,7,United States of America
+454,Vermont,4,Honda Civic,2005,6,United States of America
+455,Vermont,4,Subaru Legacy,1999,6,United States of America
+456,Vermont,5,Ford Pickup (Small Size),2002,5,United States of America
+457,Vermont,5,GMC Pickup (Full Size),2007,5,United States of America
+458,Vermont,5,Nissan Sentra,2012,5,United States of America
+459,Vermont,5,Subaru Impreza,2002,5,United States of America
+460,Virginia,1,Honda Accord,2002,266,United States of America
+461,Virginia,2,Ford Pickup (Full Size),2004,205,United States of America
+462,Virginia,3,Honda Civic,2013,200,United States of America
+463,Virginia,4,Toyota Camry,2014,181,United States of America
+464,Virginia,5,Nissan Altima,2015,162,United States of America
+465,Virginia,6,Chevrolet Pickup (Full Size),2003,144,United States of America
+466,Virginia,7,Toyota Corolla,2013,140,United States of America
+467,Virginia,8,Ford Explorer,2002,119,United States of America
+468,Virginia,9,Jeep Cherokee/Grand Cherokee,2001,107,United States of America
+469,Virginia,10,Chevrolet Impala,2006,105,United States of America
+470,Washington,1,Honda Accord,1996,"3,757",United States of America
+471,Washington,2,Honda Civic,1998,"3,113",United States of America
+472,Washington,3,Ford Pickup (Full Size),2004,745,United States of America
+473,Washington,4,Acura Integra,1994,640,United States of America
+474,Washington,5,Toyota Camry,1989,602,United States of America
+475,Washington,6,Subaru Legacy,1996,599,United States of America
+476,Washington,7,Chevrolet Pickup (Full Size),1999,562,United States of America
+477,Washington,8,Jeep Cherokee/Grand Cherokee,1994,362,United States of America
+478,Washington,9,Toyota Corolla,2010,332,United States of America
+479,Washington,10,Nissan Sentra,1997,296,United States of America
+480,West Virginia,1,Ford Pickup (Full Size),2003,87,United States of America
+481,West Virginia,2,Chevrolet Pickup (Full Size),2000,76,United States of America
+482,West Virginia,3,Jeep Cherokee/Grand Cherokee,1996,36,United States of America
+483,West Virginia,4,Dodge Pickup (Full Size),2003,29,United States of America
+484,West Virginia,4,Chevrolet Pickup (Small Size),1999,29,United States of America
+485,West Virginia,5,Chevrolet Impala,2006,24,United States of America
+486,West Virginia,6,Toyota Camry,2014,20,United States of America
+487,West Virginia,7,Ford Taurus,1995,19,United States of America
+488,West Virginia,8,GMC Pickup (Full Size),2011,18,United States of America
+489,West Virginia,9,Chevrolet Cavalier,2002,17,United States of America
+490,Wisconsin,1,Dodge Caravan,2002,"1,035",United States of America
+491,Wisconsin,2,Honda Civic,1998,470,United States of America
+492,Wisconsin,3,Honda Accord,1997,450,United States of America
+493,Wisconsin,4,Chrysler Town & Country,2002,313,United States of America
+494,Wisconsin,5,Chevrolet Impala,2007,232,United States of America
+495,Wisconsin,6,Dodge Stratus,2002,209,United States of America
+496,Wisconsin,7,Toyota Camry,2007,191,United States of America
+497,Wisconsin,8,Chevrolet Malibu,2015,179,United States of America
+498,Wisconsin,8,Dodge Intrepid,2002,179,United States of America
+499,Wisconsin,9,Honda CR-V,2000,172,United States of America
+500,Wyoming,1,Chevrolet Pickup (Full Size),2007,32,United States of America
+501,Wyoming,2,Ford Pickup (Full Size),2000,29,United States of America
+502,Wyoming,3,Dodge Pickup (Full Size),2004,13,United States of America
+503,Wyoming,4,GMC Pickup (Full Size),2007,10,United States of America
+504,Wyoming,4,Jeep Cherokee/Grand Cherokee,2000,10,United States of America
+505,Wyoming,5,Dodge Durango,2002,9,United States of America
+506,Wyoming,5,Toyota Camry,1997,9,United States of America
+507,Wyoming,6,GMC Yukon,2002,8,United States of America
+508,Wyoming,6,Honda Accord,1997,8,United States of America
+509,Wyoming,7,Chevrolet Cavalier,2003,6,United States of America
